@@ -11,6 +11,6 @@ I’ve interned at CSIR-NAL, IIT Madras, and AERB, contributing to aerospace com
 
 ---
 
-📥 [Download My Resume (PDF)](../assets/files/Vibav_Mechanical_Resume.pdf)
+ [Download My Resume (PDF)](../assets/files/Vibav_Mechanical_Resume.pdf)
 
-🔗 [LinkedIn](https://linkedin.com/in/vibav-srinivasan-191239221)
+ [LinkedIn](https://linkedin.com/in/vibav-srinivasan-191239221)
