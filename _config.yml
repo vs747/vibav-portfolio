@@ -18,7 +18,7 @@ timezone: Asia/Kolkata
 
 include:
   - _pages
-
+  - _projects
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
