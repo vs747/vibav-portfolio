@@ -6,7 +6,7 @@ description: >-
 linkedin_username: vibav-srinivasan-191239221
 github_username: vs747
 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 markdown: kramdown
