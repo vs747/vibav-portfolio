@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hi, I'm Vibav 👋"
+title: "Hi, I'm Vibav"
 subtitle: "Mechanical Design & Mechatronics Engineer"
 permalink: /
 header:
@@ -11,8 +11,8 @@ header:
 
 Welcome to my personal portfolio. I’m passionate about robotics, mechanical design, and system-level thinking.
 
-- 🔧 Explore my [Projects](/projects/)
-- 📄 [View Resume](/resume/)
-- 📬 [Contact Me](/contact/)
+-  Explore my [Projects](/projects/)
+-  [View Resume](/resume/)
+-  [Contact Me](/contact/)
 
 Let’s build something awesome.
