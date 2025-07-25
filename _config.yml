@@ -24,7 +24,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 author:
@@ -84,5 +83,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-sass:
-  custom: "assets/css/custom.css"
+defaults:
+  - scope:
+      path: ""
+      type: "css"
+    values:
+      css: "assets/css/custom.css"
+
