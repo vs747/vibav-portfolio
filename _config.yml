@@ -61,10 +61,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
 
   - scope:
       path: "_pages"
@@ -75,3 +75,19 @@ defaults:
 
   - scope:
       path: ""
+      type: css
+    values:
+      css: "/assets/css/custom.css"
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
