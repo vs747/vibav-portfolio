@@ -84,3 +84,5 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+sass:
+  custom: "assets/css/custom.css"
