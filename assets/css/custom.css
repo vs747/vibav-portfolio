@@ -1,50 +1,35 @@
-/* Minimalist, modern dark theme styling */
+/* Modern dark theme with professional font */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 body {
-  font-family: "Inter", "Segoe UI", "Roboto", sans-serif;
+  font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  background-color: #111;
-  color: #f2f2f2;
-  padding: 0;
+  background-color: #111111;
+  color: #f1f1f1;
   margin: 0;
+  padding: 0;
 }
 
-/* Headings and titles */
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
-  margin-bottom: 0.75em;
-  color: #f8f8f8;
+  color: #fdfdfd;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
-/* Link styling */
 a {
-  color: #00c2ff;
+  color: #00bcd4;
   text-decoration: none;
 }
 
 a:hover {
-  color: #58e0ff;
+  color: #1de9b6;
   text-decoration: underline;
 }
 
-/* Navigation bar or top menu links */
 nav a {
   padding: 0.5em;
   font-weight: 500;
-}
-
-/* Button styles (for future use) */
-.button {
-  background-color: #00c2ff;
-  color: #111;
-  padding: 0.5em 1em;
-  border-radius: 4px;
-  font-weight: bold;
-  text-decoration: none;
-  transition: background 0.3s ease;
-}
-
-.button:hover {
-  background-color: #58e0ff;
 }
