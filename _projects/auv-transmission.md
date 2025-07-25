@@ -13,9 +13,9 @@ At IIT Madras, I worked on the mechanical design of a biomimetic AUV transmissio
 
 ## 🛠️ Work Done
 
-- Modeled CAD in SolidWorks
-- Performed design calculations (FOS, loads)
-- Created BOM and engineering drawings
+- Modeled CAD in SolidWorks  
+- Performed design calculations (FOS, loads)  
+- Created BOM and engineering drawings  
 - Collaborated on integrating Jetson Nano for control
 
 ## 🧰 Tools Used
